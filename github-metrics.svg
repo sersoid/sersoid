@@ -1731,8 +1731,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.23814694173000361 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">2</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.3572204125950054 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">3</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2763</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -1740,8 +1740,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.4761215629522431 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">1</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.9522431259044862 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">2</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/691</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -2123,7 +2123,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.18m out of 413m repositories</span>
+                                    <span class="gh">ranked 3.21m out of 413m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2161,7 +2161,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.78m out of 413m repositories</span>
+                                    <span class="gh">ranked 2.76m out of 413m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -2252,7 +2252,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jul 2023, 19:10:26 (timezone Europe/Moscow) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 5 Jul 2023, 20:07:30 (timezone Europe/Moscow) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
