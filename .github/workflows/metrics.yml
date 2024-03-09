@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: Sersoid
+          user: sersoid
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Moscow
@@ -53,8 +53,8 @@ jobs:
           plugin_leetcode: yes
           plugin_leetcode_limit_recent: 2
           plugin_leetcode_limit_skills: 10
-          plugin_leetcode_sections: solved
-          plugin_leetcode_user: Sersoid
+          plugin_leetcode_sections: solved,skills
+          plugin_leetcode_user: sersoid
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
@@ -65,5 +65,5 @@ jobs:
           plugin_wakatime_limit: 10
           plugin_wakatime_repositories_visibility: all
           plugin_wakatime_sections: time, languages, languages-graphs
-          plugin_wakatime_user: Sersoid
+          plugin_wakatime_user: sersoid
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
